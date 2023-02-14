@@ -1,5 +1,5 @@
 ### Hi there, I'm Nikita 👋
-[![ZVARYYKA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![ZVARYYKA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zvaryyka)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ZVARYYKA/ZVARYYKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
