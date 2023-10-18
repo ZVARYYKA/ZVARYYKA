@@ -1,4 +1,4 @@
-### Hi there, I'm Nikita 👋
+# Hi there, I'm Nikita 👋
 [![codewars](https://www.codewars.com/users/ZVARYYKA/badges/large)](https://www.codewars.com/users/ZVARYYKA) 
 
 <!--
