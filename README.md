@@ -1,17 +1,21 @@
-# Hi there, I'm Nikita 👋
-[![codewars](https://www.codewars.com/users/ZVARYYKA/badges/large)](https://www.codewars.com/users/ZVARYYKA) 
+![banner.png](/docs/images/banner.png)
 
-<!--
-**ZVARYYKA/ZVARYYKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am
 
-Here are some ideas to get you started:
+![Java](/docs/images/java.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=F74A18&random=true&width=435&lines=Java+Developer)](https://git.io/typing-svg)
+![Polytechnic](/docs/images/polytech.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=54F77E&random=true&width=435&lines=Student+of++Polytechnic+University)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Locate
+
+Saint Petersburg
+
+## About me
+
+I have been studying programming since I was 12 years old. I wrote in many languages (Python, C++, JavaScript, etc.). I
+decided to stop at Java.
+
+## Codewars
+
+[![codewars](https://www.codewars.com/users/ZVARYYKA/badges/large)](https://www.codewars.com/users/ZVARYYKA)
